@@ -1,0 +1,9 @@
+.text {
+    background-color: gray;
+    color: white;
+    padding-left: 5vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    width: 90%;
+    border-radius: 3px;
+}
